@@ -1,16 +1,23 @@
-/*.container {
-    background-color: #d0c4ab;
-}*/
-
 body {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     color: #2d3c49;
-    /*color: #ec4c4c;*/
+}
+
+[class*="brandico-"]:before {
+    font-family: "brandico", sans-serif;
+    width: 2em;
+    display: inline-block;
+    color: #7d97ad;
+    font-size: 1.3em;
 }
 
 .title-logo {
-    margin-top: 30px;
+    /*margin-top: 30px;*/
+}
+
+.main-header {
+    margin-top: 50px;
 }
 
 .title-super {
@@ -36,4 +43,9 @@ hr {
 h2 {
     color: #7d97ad;
     letter-spacing: 2px;
+}
+
+p {
+    font-size: 1.2em;
+    text-align: center;
 }
