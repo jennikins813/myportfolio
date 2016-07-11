@@ -1,0 +1,39 @@
+/*.container {
+    background-color: #d0c4ab;
+}*/
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #2d3c49;
+    /*color: #ec4c4c;*/
+}
+
+.title-logo {
+    margin-top: 30px;
+}
+
+.title-super {
+    font-weight: bolder;
+    font-size: 3em;
+    letter-spacing: 2px;
+
+}
+
+.title-sub {
+    font-size: 1.3em;
+}
+
+hr {
+    border: solid 2px #7d97ad;
+    margin-bottom: 30px;
+}
+
+.hero {
+    width: 100%;
+}
+
+h2 {
+    color: #7d97ad;
+    letter-spacing: 2px;
+}
