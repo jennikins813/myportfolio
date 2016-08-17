@@ -6,12 +6,14 @@ body {
     background-color: #ffefd5;
 }
 
-[class*="brandico-"]:before {
-    font-family: "brandico", sans-serif;
-    width: 2em;
-    display: inline-block;
+.social {
+    display: inline;
     color: #7d97ad;
-    font-size: 1.5em;
+    font-size: 2em;
+}
+
+.fa {
+    padding-right: 10px;
 }
 
 .title-logo {
